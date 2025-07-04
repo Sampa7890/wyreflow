@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Ai from "../assets/Ai.jpg";
 import Cloud from "../assets/cloud_solution.jpg";
 import Consulting from "../assets/Cybersecurity.avif";

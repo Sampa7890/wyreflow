@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Innovations from "../assets/img2.avif";
 
 const Innovation = () => {

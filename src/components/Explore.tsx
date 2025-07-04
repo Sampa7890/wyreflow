@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Innovations from "../assets/Innovation.jpg";
 
 const Explore = () => {

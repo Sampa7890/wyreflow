@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Hero_img from "../assets/Hero_image.jpg";
 import { ChevronRight } from "lucide-react";
 const Hero = () => {

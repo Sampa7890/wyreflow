@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { FileCog, Handshake, BriefcaseBusiness } from "lucide-react";
 import Header from "../src/Navbar";
 import Footer from "../src/Footer";
