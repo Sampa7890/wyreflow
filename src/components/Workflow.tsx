@@ -61,7 +61,7 @@ const Workflow = () => {
     return () => clearInterval(interval);
   }, [isPlaying]);
 
-  const goToSlide = (index) => {
+  const goToSlide = (index:any) => {
     setCurrentSlide(index);
   };
 

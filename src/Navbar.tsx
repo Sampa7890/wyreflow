@@ -42,7 +42,7 @@ const Navbar = () => {
   const [openDropdownIndex, setOpenDropdownIndex] = useState(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const handleDropdownToggle = (index) => {
+  const handleDropdownToggle = (index:any) => {
     setOpenDropdownIndex((prev) => (prev === index ? null : index));
   };
 
