@@ -3,10 +3,10 @@ import Cloud_Solution from "../assets/cloud_solution.jpg";
 import Ai from "../assets/Ai.jpg";
 import Cybersecurity from "../assets/Cybersecurity.avif";
 import Data_Analyst from "../assets/Data_Analyst.avif";
-import Cloud from "../assets/cloud.mov";
-import Ai_video from "../assets/ai.mp4";
-import Cyber from "../assets/cyber.mp4";
-import DataAnalyst from "../assets/Data_Analyst.mp4";
+// import Cloud from "../assets/cloud.mov";
+// import Ai_video from "../assets/ai.mp4";
+// import Cyber from "../assets/cyber.mp4";
+// import DataAnalyst from "../assets/Data_Analyst.mp4";
 
 // Memoized card data to prevent recreation on each render
 const cardData: CardItem[] = [
@@ -16,7 +16,7 @@ const cardData: CardItem[] = [
     description:
       "Driving progress with tailored technology solutions for a dynamic marketplace",
     image: Cloud_Solution,
-    video: Cloud,
+    video: "",
   },
   {
     id: 'ai-automation',
@@ -24,7 +24,7 @@ const cardData: CardItem[] = [
     description:
       "Transforming businesses through smart decision-making and intelligent automation",
     image: Ai,
-    video: Ai_video,
+    video: "",
   },
   {
     id: 'cybersecurity',
@@ -32,7 +32,7 @@ const cardData: CardItem[] = [
     description:
       "Safeguarding digital infrastructure with proactive and resilient security strategies",
     image: Cybersecurity,
-    video: Cyber,
+    video: "",
   },
   {
     id: 'data-analytics',
@@ -40,7 +40,7 @@ const cardData: CardItem[] = [
     description:
       "Turning raw data into actionable insights for strategic growth",
     image: Data_Analyst,
-    video: DataAnalyst,
+    video: "",
   },
 ];
 
